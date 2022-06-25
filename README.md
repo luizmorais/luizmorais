@@ -49,7 +49,7 @@
   
   ##
   <br clear="both">
-    <img href="https://github.com/luizmorais/luizmorais/blob/output/snake.svg" alt="Snake animation" />
+    <img href="https://github.com/luizmorais/luizmorais/blob/output/github-contribution-grid-snake.svg" />
    
 
   
