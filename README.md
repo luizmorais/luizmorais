@@ -5,12 +5,17 @@
 - 📫 contact-me no E-mail: luizmneto7@gmail.com
 - 😄 Pronouns: ele/dele
 
+
+###
+
 <div>
   <a href="https://github.com/luizmorais/">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizmorais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizmorais&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+  ###
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="Luiz-rails" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg">
@@ -22,7 +27,7 @@
   <img align="center" alt="Luiz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-  ##
+  ###
   <div>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
@@ -34,6 +39,8 @@
     
      ![Snake animation](https://github.com/luizmorais/luizmorais/blob/output/github-contribution-grid-snake.svg)
   </div>
+  
+  ###
   <br clear="both">
     <img href="https://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
    
