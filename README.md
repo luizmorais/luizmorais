@@ -34,4 +34,6 @@
     
      ![Snake animation](https://github.com/luizmorais/luizmorais/blob/output/github-contribution-grid-snake.svg)
   </div>
-  
+  <br clear="both">
+    <img href="httpss://raw.githubusercontent.com/maurodesouza/maurodesouza/blob/output/snake.svg" alt="Snake animation" />
+   
