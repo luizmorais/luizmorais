@@ -43,5 +43,9 @@
     <a href="https://www.twitch.tv/luizmoraisneto/" target="_blank"><img src="https://img.shields.io/badge/Twitch-7B36ED?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/luizmoraisneto" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/luizmoraisneto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>        
-    ![Snake animation](https://github.com/luizmorais/luizmorais/blob/output/github-contribution-grid-snake.svg)
+    
   </div>
+  
+  ##
+  
+  ![Snake animation](https://github.com/luizmorais/luizmorais/blob/output/github-contribution-grid-snake.svg)
