@@ -1,9 +1,4 @@
-### Olá!, eu sou o Luiz Morais 👋
-
-- 🔭 Hoje trabalho com front-end e back-end
-- 🌱 Estudando Ruby, C#, VB.Net, PHP...
-- 📫 contact-me no E-mail: luizmneto7@gmail.com
-- 😄 Pronouns: ele/dele
+🚀 Sobre MimOlá! Me chamo Luiz Morais. Sou graduado em Redes de Computadores e Especialista em Governança de TI. Atualmente, estou expandindo meus horizontes tecnológicos cursando minha segunda graduação em Análise e Desenvolvimento de Sistemas (Unifametro) e me especializando como Desenvolvedor Full Stack pela IWTraining.Minha trajetória une uma forte base em infraestrutura e processos de TI com o desenvolvimento de software moderno, permitindo-me criar aplicações seguras, escaláveis e focadas na experiência do usuário.🛠️ Tecnologias e FerramentasFrontend & MobileBackend & LinguagensBanco de Dados & DevOps||||| HTML5 | C# | SQL || CSS3 | VB.NET | Git & GitHub || JavaScript (ES6+) | TypeScript (Estudando) | Electron || React / React Native | PHP | |📚 Momento de Aprendizado & Evolução🎯 Foco Atual: Dominar TypeScript para trazer maior tipagem e robustez aos projetos Full Stack.💻 Formação Atual: Bootcamp Full Stack na IWTraining (abrindo horizontes em React, React Native e Electron).🎓 Acadêmico: Graduando em Análise e Desenvolvimento de Sistemas na Unifametro.
 
 
   ##
